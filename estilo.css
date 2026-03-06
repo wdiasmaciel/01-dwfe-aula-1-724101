@@ -1,4 +1,5 @@
 * {
+    font-family: "Segoe UI", Arial, sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -11,8 +12,10 @@ body {
 }
 
 header {
-    border: 0.1rem solid red;
+    /* border: 0.1rem solid red; */
     height: 2rem;
+    background-color: #252523;
+    color: #eee;
 }
 
 section {
@@ -32,6 +35,8 @@ main {
 }
 
 footer {
-    border: .1rem solid green;
+    /* border: .1rem solid green; */
     height: 2rem;
+    background-color: #252523;
+    color: #eee;
 }
